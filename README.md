@@ -1,4 +1,4 @@
-# valentine_app
+# Lovey App
 
 Simple Flutter app that will help you to express your feelings 🙌
 
