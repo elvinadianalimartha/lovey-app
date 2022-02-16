@@ -1,6 +1,9 @@
 # Lovey App
 
 Simple Flutter app that will help you to express your feelings 🙌
+<br><br>
+<img src=https://github.com/elvinadianalimartha/lovey-app/blob/master/front_page.png width="200">
+<img src=https://github.com/elvinadianalimartha/lovey-app/blob/master/express_love.png width="200">
 
 ## Getting Started
 
