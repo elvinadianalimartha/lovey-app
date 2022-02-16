@@ -1,6 +1,6 @@
 # valentine_app
 
-A new Flutter project.
+Simple Flutter app that will help you to express your feelings 🙌
 
 ## Getting Started
 
